@@ -20,6 +20,8 @@ print("Reminder is",result(int(input("Enter numerator:")),int(input("Enter Denom
 
 ## Output
 <img width="866" height="168" alt="image" src="https://github.com/user-attachments/assets/d6adbfa7-595a-437b-88c9-6be30e8f25a9" />
+
 ## Result
+
 Successfully wrote a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
